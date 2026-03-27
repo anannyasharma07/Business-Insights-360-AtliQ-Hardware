@@ -72,3 +72,5 @@ Improved visibility across business functions
 Reduced manual reporting effort
 
 Enabled faster and more accurate data-driven decisions
+
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNWNmYTc3ZmEtZTE3ZS00ZDJmLWE0NTItYzhiMjQ3ODBlOGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
