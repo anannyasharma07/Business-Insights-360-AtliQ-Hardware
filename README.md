@@ -3,7 +3,7 @@
 
 Business Insights 360 is an end-to-end Business Intelligence solution developed using Power BI to provide a 360° view of business performance.
 
-The project focuses on transforming raw data into actionable insights across key business functions such as Finance, Sales, Marketing, and Supply Chain, enabling data-driven decision-making.
+The project focuses on transforming raw data into actionable insights across key business functions such as Finance, Sales, Marketing, Supply Chain, and Executive view enabling data-driven decision-making.
 
 🔷 Problem Statement
 
